@@ -1,2 +1,3 @@
-# version-control
-Test repo for version control class in JSGS843
+# Version Control Lesson
+
+Test repo for version control lesson in JSGS843
