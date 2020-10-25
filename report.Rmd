@@ -13,4 +13,4 @@ This is a fancy report. People who contributed to this report are:
 
 * Gavin Simpson
 
-* ...
+* Morgan Allen
